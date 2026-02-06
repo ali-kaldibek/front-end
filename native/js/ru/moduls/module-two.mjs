@@ -1,3 +1,2 @@
-import printMyName from './module-one.mjs'
-
-printMyName()
+import testName from './module-one.mjs'
+testName()
